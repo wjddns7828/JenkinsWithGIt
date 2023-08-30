@@ -120,6 +120,7 @@
 	
 	
 	<build>
+	<finalName>SpringProjectForJenkins</finalName>
         <plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
