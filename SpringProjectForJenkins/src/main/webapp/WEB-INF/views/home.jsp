@@ -11,6 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <div>Hi Jenkins Deployment</div>
-<div>webhooks gogo</div>
+<div>webhooks gogo push</div>
 </body>
 </html>
