@@ -20,5 +20,6 @@
 <div>${serverVal}</div>
 <div>작업진행</div>
 <div>git에서 추가해봄</div>
+<div>eclipse에서 추가 해봄</div>
 </body>
 </html>
