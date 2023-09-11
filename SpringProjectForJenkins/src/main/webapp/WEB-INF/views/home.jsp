@@ -14,5 +14,6 @@
 <div>webhooks gogo push 수정</div>
 <div>작업완료 webhook</div>
 <div>작업했습니다</div>
+<div>${serverVal}</div>
 </body>
 </html>
