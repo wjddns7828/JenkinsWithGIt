@@ -19,5 +19,6 @@
 <div>작업했습니다</div>
 <div>${serverVal}</div>
 <div>작업진행</div>
+<div>git에서 추가해봄</div>
 </body>
 </html>
